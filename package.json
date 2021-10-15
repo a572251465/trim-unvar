@@ -3,5 +3,23 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "lihaohao <2495041749@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "trim",
+    "unvar",
+    "unfunction"
+  ],
+  "homepage": "https://github.com/a572251465/trim-unvar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a572251465/trim-unvar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a572251465/trim-unvar/issues",
+    "email": "2495041749@qq.com"
+  },
+  "files": [
+    "dist",
+    "src"
+  ]
 }
